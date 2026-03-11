@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Montserrat", sans-serif;  
+    font-family: "Montserrat", sans-serif;
 }
 
 .logo-mario {
@@ -45,7 +45,7 @@ body {
 }
 
 .caixa-principal {
-    width: 40%;   
+    width: 40%;
 }
 
 .caixa-video {
@@ -140,14 +140,12 @@ textarea {
     align-items: center;
 }
 
-.mascara-formulario {
+/*.mascara-formulario {
     position: fixed;
     top: 0;
     width: 100vw;
     height: 100vh;
-    /*background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);*/
-}
-
+    background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);*/
 /*
     Inicial: 
         top: 30%
